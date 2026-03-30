@@ -1,6 +1,27 @@
 # bgk
 çalıştığı için okula gidemeyen çocuklar için yapay zeka destekli alternatif bir çözüm.
+readme.md
+# Yol Arkadaşım: Sınav Navigasyonu 🧭
 
+"Okula gidemeyen değil, geleceğini molalara sığdıran çocuklar için."
+
+## 🚀 Problem & Çözüm
+Zaman yoksulu çocuklar için koca bir müfredatı değil, diplomayı getirecek en stratejik bilgileri ayıklayarak mesai aralarına sığdırır.
+
+### Temel Özellikler
+- **Isı Haritası:** Sınavda çıkma ihtimali en yüksek konuların görselleştirilmesi.
+- **Kritik 20:** Her ders için sınavı geçirtecek 20 soruluk nokta atışı dijital fasikül.
+- **Uygulamalı Teori:** Dersleri çocuğun iş koluna (Sanayi, Tekstil vb.) göre anlatan içerikler.
+- **Buddy Sistemi:** STK onaylı üniversite mentorları ile güvenli eşleşme.
+
+## 🛠️ Teknik Uygulama Planı (MVP Steps)
+1. **Frontend:** HTML5, Tailwind CSS (Mobile-First Tasarım).
+2. **Intelligence:** Google Gemini API (Ders özetleri ve soru tahmini için).
+3. **Deployment:** Lovable / Vercel ile anında yayına alma.
+
+## 👥 Kullanıcılar
+- Çalışan Çocuklar (AÖL Öğrencileri)
+- Üniversite Mentorları (STK Onaylı)
 
 
 idea.md
