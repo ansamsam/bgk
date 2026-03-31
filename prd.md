@@ -48,9 +48,8 @@
 
 ## 5. User Flows
 1. **Onboarding:** User selects "Job Sector" and "Target Exam".
-2. **Learning:** User listens to an audio summary while working or commuting.
-3. **Solving:** User solves 5 "Hot Questions" during a break.
-4. **Asking:** User uploads a photo of a hard question; Mentor receives a notification via the STK-managed bridge.
+2. **Solving:** User solves 5 "Hot Questions" during a break.
+3. **Asking:** User uploads a photo of a hard question; Mentor receives a notification via the STK-managed bridge.
 
 ## 6. Security & Data Privacy
 - **Verification:** Only STK-approved mentors get the "Verified" badge.
