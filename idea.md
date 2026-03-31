@@ -1,8 +1,5 @@
-# bgk
-çalıştığı için okula gidemeyen çocuklar için yapay zeka destekli alternatif bir çözüm.
 
-readme.md
-# Yol Arkadaşım: Sınav Navigasyonu 🧭
+# Pusulam: Sınav Navigasyonu 🧭
 
 "Okula gidemeyen değil, geleceğini molalara sığdıran çocuklar için."
 
